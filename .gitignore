@@ -22,4 +22,8 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+<<<<<<< HEAD
 >>>>>>> e9324d21a9bea9419eeca6f0a8a8686df395ae55
+=======
+theme/*
+>>>>>>> 09c4c3f8767234763eedb90df6126800491c18fe
