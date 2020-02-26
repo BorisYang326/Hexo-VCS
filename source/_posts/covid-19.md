@@ -6,7 +6,7 @@ date: 2020-02-06,22:17
 updated: 
 ---
 
-# 「 假 期 自 救  」
+# 「 Closed.  」
 
 > Affected by the Catastrophe-epidemic **『Covid-19』**. The semester IV (2020 Spring) will delay to March 2^nd^.  This blog will give a deployment for the next three weeks.
 
@@ -122,16 +122,52 @@ This deployment will be「**Revised** **& Updated**」 by everyday 11:59 UTC+8 .
 
 写的乱七八糟。大概就是这么多了。以后还是每天列一下自己的 「 To do list 」。毕竟人还是要活的有点仪式感。 
 那么下面是最近要做的事情。
+
 :::danger
 CA cmu-15-213 Catch Up
 :::
+
 :::warning
 Re-start Coursera ML
 :::
+
 :::info
 Latex ShanghaiTech Clubs Rules
 :::
+
 明天Update.
+
+-----
+
+>Updated at February 22, 2020 at 5:06:20 PM GMT+8
+
+<span style='color:green'><font size='5px'>&#10543;</font></span>  ~~CMU-15-213 Integer 前半部分~~ 還剩「Arithmetic Operation」
+<span style='color:green'><font size='5px'>&#10543;</font></span> ~~Coursera Week 完成 2/3。Quiz 1.1/1.2完成。~~
+<span style='color:red'><font size='5px'>&#10544;</font></span>「Latex化」文档未进行
+<span style="color:#4169E1"><font size='5px'>&#10533;</font></span> 推进度到「float」
+<span style="color:#4169E1"><font size='5px'>&#10533;</font></span> 「武汉加油」视频定稿
+<span style="color:#4169E1"><font size='5px'>&#10533;</font></span> 「添加 Licence」「分頁器改善」
+
+
+------
+>Updated at February 26, 2020 at 9:31:10 PM GMT+8
+
+已经 N 年没 Update 了
+这两天确实发生了一些事情 
+见女朋友
+处理家里的事
+...
+...
+主要还是很焦虑。原因很复杂吧。然后就什么都不想干。自暴自弃。
+
+可能是因为&#x300C; 开学 &#x300D;又想到自己上学期的GPA。然后就觉得很累。
+
+也可能是因为对于自己寒假&#x300C; 学习计划 &#x300D;的偏移。我承认这个寒假还是比较充实，技能树点开了很多奇怪的方向。但是对于正事，也就是在这篇&#x300C; blog &#x300D;的开头写的那些事情。I have to say that really sucks. 对于&#x300C; Markdown &#x300D;格式的笔记，我也出现了怀疑。因为实在是 <span style='color:rgb(88, 70, 10)'>&#x300C; 信噪比 &#x300D;</span> 太低。效率不高。所以我在想是否需要先听课手写笔记再去总结？当然最好的就是这样过一遍，把自己
+的笔记做成&#x300C; Encyclopedia &#x300D;类的集成。当然这些事情还是没有很折中的方案。还是很苦恼。
+
+这算是这篇post的最后一次更新吧。
+那么。&#x300C; Covid-19 加强版寒假 &#x300D;。
+<span style='color:darkgreen'>结束了。</span>
 
 [cmu]: http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html  "「CMU 15-231-fall 15」"
 [ml]: https://www.coursera.org/learn/machine-learning "「 Machine Learning  -Stanford Prof. Andrew Ng」"

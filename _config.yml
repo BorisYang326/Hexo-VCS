@@ -107,7 +107,7 @@ mathjax: true
 
 #auto-excerpt
 excerpt:
-  depth: 50
+  depth: 100
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
@@ -155,3 +155,13 @@ prism_plugin:
   theme: 'base16-ateliersulphurpool.light'
   line_number: true    
   custom_css: themes/saki.li/source/prism.css
+
+
+#RSS
+plugins:
+  hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
