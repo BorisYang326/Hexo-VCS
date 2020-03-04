@@ -6,7 +6,7 @@ date: 2020-02-06,22:17
 updated: 
 ---
 
-# 「 Closed.  」
+# <span style='color:purple'>&#9856;</span> &nbsp; 「 Closed.  」
 
 > Affected by the Catastrophe-epidemic **『Covid-19』**. The semester IV (2020 Spring) will delay to March 2^nd^.  This blog will give a deployment for the next three weeks.
 

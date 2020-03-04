@@ -1,11 +1,11 @@
 ---
-title: 組織聯絡部
+title: Covid-19 「 -Liaison Dept.」
 date: 2020-02-09 21:26:29
-update: 
+update: 2020-02-22 15:24:51
 categories: Liaison「組織聯絡部」
 ---
 
-# 「 組織聯絡部進期工作安排 」
+# <span style='color:purple'>&#9856;</span> &nbsp; 「 組織聯絡部進期工作安排 」
 > About the adjustment & assignment of the work in &#x300C; COVID-19 &#x300D; for Liaison Dept.
 <!--more-->
 

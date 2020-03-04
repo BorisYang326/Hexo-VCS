@@ -5,7 +5,7 @@ updated: 2020-02-06 22:19:33
 categories: "Odds&Ends 雜談"
 ---
 
-# 「Blog 架 構」
+# <span style='color:purple'>&#9856;</span> &nbsp; 「Blog 架 構」
 
 > 終於結束了。
 

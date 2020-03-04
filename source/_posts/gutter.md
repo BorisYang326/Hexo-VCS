@@ -1,11 +1,11 @@
 ---
 title: 「Think Individually.」
 date: 2020-02-07 11:34:05
-Updated: 2020-02-07 11:34:05
+updated: 2020-02-07 11:34:05
 categories: "Odds&Ends 雜談"
 ---
 
-# 「光 怪 陸 離」
+# <span style='color:purple'>&#9856;</span> &nbsp; 「光 怪 陸 離」
 
 > This blog aims to express my personnal views to some phenomena behind the 「Novel Coronavirus 」. ***This disclaimer informs readers that the views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author's employer, organization, committee or other group or individual.***
 
