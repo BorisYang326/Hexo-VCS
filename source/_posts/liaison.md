@@ -227,3 +227,42 @@ categories: Liaison「組織聯絡部」
    或者可以采取&#x300C; **线上录播** &#x300D;的形式。评分机制与返校方案相似。但介于条件限制，可能会采取**随机分组 按组别分天数评选** 拉长战线，同时保证参赛选手有时间进行录制。由于在返校前举办可以考虑采用&#x300C; 大众评审团 &#x300D;即先行从所有人中投票出大众评审，再去参加投票反馈。
    :::
 
+---------------------
+
+## <span style='color:darkgreen'>&#x2756; </span> 2020 春學期第二次例會 <span style='color:darkgreen'>&#x300C; 2020.March 26<sup>th</sup> &#x300D;</span>
+
+1. 核對進度
+   - 檢查每個人的標準化文檔。正式啟動學生會組織聯絡部相關工作。
+   - 社團電子手冊 Latex 檢查。登記有無 Word 副本。
+   - 標準化文檔歸檔，整理。
+   - 疫情期間視頻「表彰」。
+2. 進行人事變動。等到郵件正式通知。
+
+3. 學生會郵件模板製作。
+   「主要要求」
+    <span style="color:darkgrey"><font size='5px'>&#10045;</font></span> 類似郵件模板。
+    <span style="color:darkgrey"><font size='5px'>&#10045;</font></span> 頁眉 <span style='color:green'> + 學生會三級反饋鏈接 </span> [點此反饋 ](https://www.wjx.cn/m/48122007.aspx )
+    <span style="color:darkgrey"><font size='5px'>&#10045;</font></span> 頁腳 <span style='color:green'> + 學生會中英文名稱 </span> 
+    <span style="color:darkgrey"><font size='5px'>&#10045;</font></span> 頁腳 <span style='color:purple'> * 當前活動鏈接 | 二維碼 </span>
+
+4. 部門SOP上傳。<span style='color:steelblue'>Redirect &#10144;</span> 歸檔
+5. 做近期活動總覽。
+   - 從其他部門收集 
+   - 接入格式為
+     > 活動名稱 - 時間 - 簡單介紹 - 配圖「Optional」
+   - 做成帶有宣傳性質的文稿。方便郵件發送 | 多平台宣傳。
+   - 參考社團近期活動速覽。
+6. 推進外聯工作。交給徐詩傑講。
+7. **「線上歌手大賽」**
+   - 近期重點活動。
+   - 分工分組。參考去年流程。
+   - 手頭工作是寫策劃案。擬定分為三個組。各自寫各自部分的策劃。
+     - 「人事」
+     負責 <span style='color:red'>賽制設置</span>。選手登記 & 選拔。專家評審對接 & 大眾評審團遴選。
+     - 「技術」
+     如无后续變動。負責建立整體遠程實現。
+     - 「宣發」
+     海报制作。微信推文素材。 
+   - 一周後對接。
+   - 相關文件隨後上傳。
+8. <font size='8px'>**&iquest;**</font>「勞動教育專題」
