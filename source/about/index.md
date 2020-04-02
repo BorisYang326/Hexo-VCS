@@ -18,7 +18,7 @@ Hi. This is Boris_Yang , a CS student in [ShanghaiTech](http://www.shanghaitech.
 
 <img src="about_pic/link.png" style="zoom:15%;" /> 友情鏈接
 
-- [Leslie Hsü](https://lesliehsyu.github.io/)
+- [Leslie Hsü](http://lesliehsyu.space/)
 
 - [Cutebeastpxq](https://cutebeastpxq.top/)
 > Fate has no pity.

@@ -1,5 +1,5 @@
 ---
-title: Semester IV 「Agenda | Revise」
+title: Semester IV 「Agenda | Revise」-- March
 date: 2020/3/2, 4:08 PM
 updated: 
 categories: Deploy 計劃
@@ -172,3 +172,14 @@ CA-Hw2-End.
 >最後附上近三天的「Blocky Time」
 ><img src="https://boris-bucket-1301199068.cos.ap-shanghai.myqcloud.com/vscode-markdown/20200313004144.png" style='zoom:15%'/>
 > Detailed Due & Deployment will release tomorrow. 
+
+
+-------------------------
+### <span style='color:purple'>&#9858;</span> &nbsp; Updated at March 29, 2020 at 3:52:31 PM GMT+8
+
+很久都没更新了。最近也是被作業和滿天飛的 Due 壓得喘不過氣。但還是有認真在記錄時間。直到今天早上休息時看到了另外的GTD方案。於是在這裡大概記錄一下，之前看到過GTD軟件。但是因為其繁瑣的記錄流程就沒有繼續下去。但是大概回想一下最近這段時間。還是「Delay」很多。雖然不至於像上次那樣為了趕作業推遲一切。但是現在的情況就是手頭積壓很多沒有看的視頻，以及將來的作業。當別人Hw有整整14天做的時候。我因為前7天在做之前的作業，造成學習進度脫軌，學習效果也不得而知。現在最想做的事情還是把進度趕上來，然後提前做作業。這樣才有時間去看書，看輔助課程，甚至是去處理「VRVC-LAB」的東西。看著pst，一想到這樣比我厲害的人卻沒能進「VRVC-LAB」。而我卻鳩佔鵲巢，在這裡不作為。馬上要過去一個月了。回首看整個三月。只是在苟延殘喘著完成著Due，這個狀態其實很危險。有點像上學期的模樣。一定不能這樣了。
+附上最近很長一段時間的「Blocky Time」，以後改為 「Atracker Pro + Things 3」。
+
+<img src="https://boris-bucket-1301199068.cos.ap-shanghai.myqcloud.com/vscode-markdown/20200329160857-{date}.png" alt="20200329160857-{date}" style='zoom:33%'/>
+
+这篇就这样结束吧。接下来会新开一篇Blog对四月进行计划(与执行)。
