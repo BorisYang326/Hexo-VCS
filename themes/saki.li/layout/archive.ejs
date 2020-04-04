@@ -1,0 +1,21 @@
+<section class="archive">
+    <ul class="post-archive">
+        <% let x = [] %>
+        <% page.posts.each(function (post) { %>
+        <% if (x.indexOf(date(post.date, "YYYY/MM")) === -1) x.push((date(post.date, "YYYY/MM"))) %>
+        <% }) %>
+        <% for (let year of x) { %>
+        <div class="year-m"> &#10070; <%= year %>
+            <% page.posts.each(function (post) { %>
+            <% if ((date(post.date, "YYYY/MM")) === year) { %>
+            <li class="post-item">
+                <span class="post-date"> &#9873; <%= date(post.date, "YYYY/MM/DD") %></span>
+                <a class="post-title" href="<%- url_for(post.path) %>"><%= post.title %></a>
+            </li>
+            <% } else return }) %>
+        </div>
+        <br>
+        <% } %>
+    </ul>
+</section>
+<%- partial('_partial/paginator') %>

@@ -1,0 +1,47 @@
+<%
+function displayCategories(parent = undefined) {
+  site.categories
+    .find({ parent }) // warehouse allows us complex queries
+    .sort("name") // sort
+    .each(function(category) {
+      // count the child categories
+      const childCount = site.categories.find({ parent: category._id }).count();
+      %>
+      <ul>
+        <% if (parent!=undefined) { %>
+            <span style='color:rgb(109, 0, 109)'> &#9857;</span><span style = "color:rgb(88, 70, 10)"> <%=category.name%></a>  </span>
+        <br>
+        
+        <%}else{%>
+
+        <span style='color:rgb(109, 0, 109)'> &#9856;</span><span style = "color:rgb(88, 70, 10)"> <%=category.name%></a>  </span>
+        <br>
+
+        <% } %> 
+        <% if (childCount == 0) { %>
+        <% category.posts.forEach(function(post) { %>
+            
+            <ul class="post-item">
+                <span class="post-date"><%= date(post.date, "YYYY-MM-DD") %></span>
+                <a class="post-title" href="<%- url_for(post.path) %>"><%= post.title %></a>
+            </ul>
+               
+            <% }) %>
+            <% } %> 
+        <% if (childCount > 0) { %>
+          <!-- <ul> -->
+            <% displayCategories(category._id); %>
+          <!-- </ul> -->
+        <% } %>
+        </ul>
+      <%
+    });
+}
+%>
+
+
+<section class="archive">
+<ul class="post-archive">
+  <% displayCategories(); %>
+</ul>
+</section>

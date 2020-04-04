@@ -1,0 +1,36 @@
+
+<section class="posts">
+  <% page.posts.each(function (post) { %>
+  <article class="post">
+    <div class="post-title">
+      <a class="post-title-link" href="<%- url_for(post.path) %>"><%- post.title %></a>
+    </div>
+    <div class="post-content">
+      <% if (theme.excerpt) { %>
+      <%- post.excerpt %>
+      <a class="More" href="<%- url_for(post.path) %>"><%= __('More') %></a>
+      <% } else { %>
+      <%- post.content %>
+      <% } %>
+    </div>
+    <div class="post-meta">
+      <span class="post-time"> <span style='color:rgb(0, 177, 29)'> &#9876; </span> <span style='color:rgb(3, 90, 0)'> Intialized in </span> <%- date(post.date, config.time_format+" "+config.date_format) %> </span>
+      <br>
+      
+      <span class="post-updatedtime"> 
+        <%if (date(post.date, config.time_format+" "+config.date_format) != date(post.updated, config.time_format+" "+config.date_format) ){%>
+          
+        <span style='color:rgb(255, 0, 0)'>&#9874; </span> <span style='color:rgb(85, 1, 1)'> Modified in </span><%- date(post.updated, config.time_format+" "+config.date_format) %>  
+        
+        <% } else { %>
+          <span style='color:rgb(255, 0, 0)'>&#9874; </span> <span style='color:rgb(85, 1, 1)'> Modified in </span> <span style='color:rgb(0, 64, 116)'>  &nbsp &#10019;&nbsp As above &nbsp&#10019;</span>
+          <% } %>
+      </span>
+      
+    </div>
+  </article>
+  <% }) %>
+</section>
+<meta http-equiv=â€�Content-Typeâ€� content=â€�text/html; charset=utf-8â€³>
+<%- partial('_partial/paginator') %>
+<%- partial('_partial/footer') %>

@@ -1,0 +1,9 @@
+menu:
+  Home: /
+  Archives: /archives
+  #Tags: /tags
+  Categories: /categories
+  About: /about
+disqus_shortname: Boris_Tahiti
+
+excerpt: true

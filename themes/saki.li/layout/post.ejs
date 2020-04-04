@@ -1,0 +1,39 @@
+<article class="post">
+    <div class="post-title">
+        <h1 class="title"><%= page.title %></h2>
+    </div>
+    <div class="post-content">
+        <%- page.content %>
+    </div>
+</article>
+<!-- <div class="post-meta">
+    <span class="post-time"><span style='color:rgb(0, 177, 29)'> &#9876; </span> <span style='color:rgb(3, 90, 0)'> Intialized in </span> <%- date(page.date, config.time_format+" "+config.date_format) %></span>
+    <br>
+    <span class="post-updatedtime"> <span style='color:rgb(255, 0, 0)'>&#9874; </span> <span style='color:rgb(97, 1, 1)'> Modified in </span> <%- date(page.updated, config.time_format+" "+config.date_format) %></span>
+</div> -->
+
+
+<div class="post-meta">
+    <span class="post-time"> <span style='color:rgb(0, 177, 29)'> &#9876; </span> <span style='color:rgb(3, 90, 0)'> Intialized in </span> <%- date(page.date, config.time_format+" "+config.date_format) %> </span>
+    <br>
+    
+    <span class="post-updatedtime"> 
+      <%if (date(page.date, config.time_format+" "+config.date_format) != date(page.updated, config.time_format+" "+config.date_format) ){%>
+        
+      <span style='color:rgb(255, 0, 0)'>&#9874; </span> <span style='color:rgb(85, 1, 1)'> Modified in </span><%- date(page.updated, config.time_format+" "+config.date_format) %>  
+      
+      <% } else { %>
+        <span style='color:rgb(255, 0, 0)'>&#9874; </span> <span style='color:rgb(85, 1, 1)'> Modified in </span> <span style='color:rgb(0, 64, 116)'>  &nbsp &#10019;&nbsp As above &nbsp&#10019;</span>
+        <% } %>
+    </span>
+    
+  </div>
+
+<div class="prev_next">
+    <%- partial('_partial/prev_next') %>
+</div>
+
+<div class="post-comment">
+    <%- partial('_partial/disqus') %>
+</div>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
